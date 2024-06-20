@@ -1,0 +1,24 @@
+{
+  "redhat.telemetry.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 15,
+  "editor.wordWrap": "on",
+  "screencastMode.fontSize": 50,
+  "screencastMode.verticalOffset": 50,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 20,
+  "editor.fontWeight": "normal",
+  "editor.fontVariations": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.fontFamily": "Jetbrains Mono",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.accessibilitySupport": "off"
+}
